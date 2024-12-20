@@ -1,0 +1,6 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "The YOLOv3 network from the paper 'YOLOv3: An Incremental Improvement'",
+  "MLModelAuthorKey" : "Original paper: Joseph Redmon, Ali Farhadi",
+  "MLModelLicenseKey" : "Public Domain"
+}

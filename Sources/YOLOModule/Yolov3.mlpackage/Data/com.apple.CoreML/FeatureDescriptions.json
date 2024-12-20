@@ -1,0 +1,21 @@
+{
+  "Outputs" : {
+    "output1" : {
+      "MLFeatureShortDescription" : "The 13x13 grid (Scale1)"
+    },
+    "output2" : {
+      "MLFeatureShortDescription" : "The 26x26 grid (Scale2)"
+    },
+    "output3" : {
+      "MLFeatureShortDescription" : "The 52x52 grid (Scale3)"
+    }
+  },
+  "Inputs" : {
+    "input1" : {
+      "MLFeatureShortDescription" : "Input image"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
